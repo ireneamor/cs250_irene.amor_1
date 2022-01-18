@@ -1,0 +1,16 @@
+/* ---------------------------------------------------------------------------------------------------------
+Copyright (C) 2022 DigiPen Institute of Technology.
+Reproduction or disclosure of this file or its contents without the prior written
+consent of DigiPen Institute of Technology is prohibited.
+Project: cs250_irene.amor_1
+Author: Irene Amor Méndez, irene.amor, 540001720
+Creation date: 18/01/2022
+----------------------------------------------------------------------------------------------------------*/
+
+- How to run your program: 	I have made the program in x64, Visual Studio 2019.
+
+- How to use your program: 	Execute normally, there are no inputs/controls.
+				The program prints the outputs of the tests automatically.
+
+- Important parts of the code: 	The operators and constructors of any of the classes were helpful to
+				build those functions for the rest.
